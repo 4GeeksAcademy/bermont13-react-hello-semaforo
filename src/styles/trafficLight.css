@@ -1,0 +1,27 @@
+.traffic-container {
+    background: #333;
+    padding: 1rem;
+    width: 100px;
+    margin: auto;
+    border-radius: 10px;
+    text-align: center;
+  }
+  
+  .light {
+    width: 60px;
+    height: 60px;
+    margin: 10px auto;
+    border-radius: 50%;
+    background-color: #555;
+    cursor: pointer;
+  }
+  
+  .red { background-color: red; }
+  .yellow { background-color: yellow; }
+  .green { background-color: green; }
+  .purple { background-color: purple; }
+  
+  .glow {
+    box-shadow: 0 0 20px 10px rgba(255, 255, 255, 0.8);
+  }
+  
